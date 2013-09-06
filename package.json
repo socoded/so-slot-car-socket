@@ -1,0 +1,22 @@
+{
+  "name": "so-slot-car-socket",
+  "version": "0.0.0",
+  "description": "so-slot-car-socket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/socoded/so-slot-car-socket.git"
+  },
+  "author": "Thorben Schröder <thorben@socoded.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/socoded/so-slot-car-socket/issues"
+  },
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
